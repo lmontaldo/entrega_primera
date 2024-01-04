@@ -1,5 +1,5 @@
 
-En la carpera src se encuentran las etapas de la implmentación general:
+En la carpera src se encuentran las etapas de la implementación general:
 
 
 
